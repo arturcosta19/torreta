@@ -13,7 +13,7 @@ Objetivo
 
 	O equipamento a ser construído é capaz de detectar alvos em uma área varrida por 180°, de raio 30cm. Ao detectar qualquer objeto nessa área, o dispositivo dispara balas na direção do alvo, até que este saia de seu raio de alcance.
 
-Resumo:
+Resumo
 
 O DBB é um equipamento constituído por dois diferentes subsistemas: Detecção de alvos e arremesso de projéteis. 
 
